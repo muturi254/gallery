@@ -1,0 +1,9 @@
+ul li{
+    list-style: none;
+    padding: 10px;    
+    display: inline;
+}
+ img{
+    border: 1px solid red;
+    margin: 5px
+ }
